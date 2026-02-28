@@ -1,40 +1,79 @@
-# Eliana - React JS Portfolio Template
-#### Preview
+# 🎓 Siva Ajish Ram R – Portfolio
 
- - [Demo](https://themewagon.github.io/eliana-react/)
+Personal portfolio website built using React (Vite) to showcase my projects, skills, and academic profile as a Computer Science Engineering student.
 
-#### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/eliana-react/)
+## 🚀 Live Demo
 
-## Getting Started
+(Replace with your deployed link)
+👉 https://your-portfolio-link.netlify.app
 
-1. Clone Repository
-```
-git clone https://github.com/themewagon/eliana-react.git
-```
-2. Install Dependencies
-```
-npm i
-```
-3. Run the development server:
+---
+
+## 👨‍💻 About Me
+
+I am a 2nd Year B.Tech Computer Science Engineering student at  
+SRM Institute of Science and Technology, Tiruchirappalli.
+
+My interests include:
+
+- 🎮 Game Development (Unity)
+- 🌐 Web Development (Node.js, JavaScript)
+- 🧠 Data Structures & Algorithms
+- 🔌 Embedded & IoT Systems (ESP32)
+
+---
+
+## 🛠 Tech Stack
+
+- React (Vite)
+- JavaScript
+- Tailwind CSS
+- Unity
+- Node.js
+- Blender
+
+---
+
+## 📂 Featured Projects
+
+### 🎮 Web-Based Multiplayer 2D Shooting Game
+- Real-time low-latency multiplayer game
+- Built using Unity and Node.js
+- Focused on synchronization and performance optimization
+
+### 🌍 Portable Real-Time Speech Translation System
+- ESP32-based embedded device
+- Captures speech input and translates using cloud API
+- Bluetooth audio output integration
+- Combines IoT + AI + Embedded Systems
+
+---
+
+## 📊 Academic Profile
+
+- 🎓 B.Tech CSE – 2nd Year
+- 📈 CGPA: 8.1
+- 📚 Core Subjects:
+  - Data Structures
+  - Operating Systems
+  - OOPS
+
+---
+
+## 📬 Contact
+
+- Email: sivaajishramr@gmail.com
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINK
+
+---
+
+## 🏗 Installation (For Developers)
+
+Clone the repository:
 
 ```bash
+git clone https://github.com/YOUR_USERNAME/portfolio.git
+cd portfolio
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-## Author 
-```
-Design and code is completely written by PrebuiltUI and development team. 
-```
-
-## License
-
- - Design and Code is Copyright &copy; <a href="https://prebuiltui.com/" target="_blank">PrebuiltUI</a>
- - Licensed cover under [MIT]
- - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>

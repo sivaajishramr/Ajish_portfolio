@@ -4,8 +4,8 @@ Personal portfolio website built using React (Vite) to showcase my projects, ski
 
 ## 🚀 Live Demo
 
-(Replace with your deployed link)
-👉 https://your-portfolio-link.netlify.app
+
+👉 [https://your-portfolio-link.netlify.app](https://ajishportfolio07.netlify.app/)
 
 ---
 

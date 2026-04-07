@@ -60,11 +60,23 @@ My interests include:
 
 ---
 
-## 📬 Contact
 
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://ajishportfolio07.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/siva-ajish-ram-181353323">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_ajish__27/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 - Email: sivaajishramr@gmail.com
 - GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINK
+
 
 ---
 

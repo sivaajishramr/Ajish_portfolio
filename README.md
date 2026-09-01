@@ -1,91 +1,235 @@
-# 🎓 Siva Ajish Ram R – Portfolio
+# 🎮 Siva Ajish Ram — Portfolio
 
-Personal portfolio website built using React (Vite) to showcase my projects, skills, and academic profile as a Computer Science Engineering student.
+Personal portfolio website built to showcase my journey, projects, skills, and work as a **Unity Game Developer & Gameplay Programmer**.
 
-## 🚀 Live Demo
-
-
-👉 [https://your-portfolio-link.netlify.app](https://ajishportfolio07.netlify.app/)
+🌐 **Live Portfolio:**
+https://portfolio-nine-nu-yip0zsyli1.vercel.app/
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a 2nd Year B.Tech Computer Science Engineering student at  
-SRM Institute of Science and Technology, Tiruchirappalli.
+I'm **Siva Ajish Ram**, a B.Tech Computer Science Engineering student at **SRM Institute of Science and Technology**, passionate about game development and gameplay programming.
 
-My interests include:
+I enjoy building responsive gameplay mechanics, game physics, player systems, and interactive experiences using **Unity and C#**.
 
-- 🎮 Game Development (Unity)
-- 🌐 Web Development (Node.js, JavaScript)
-- 🧠 Data Structures & Algorithms
-- 🔌 Embedded & IoT Systems (ESP32)
+My current focus is on turning ideas into polished, playable experiences — from arcade prototypes to larger real-time systems.
 
 ---
 
-## 🛠 Tech Stack
+## 🎮 What I Do
 
-- React (Vite)
-- JavaScript
-- Tailwind CSS
-- Unity
-- Node.js
-- Blender
-
----
-
-## 📂 Featured Projects
-
-### 🎮 Web-Based Multiplayer 2D Shooting Game
-- Real-time low-latency multiplayer game
-- Built using Unity and Node.js
-- Focused on synchronization and performance optimization
-
-### 🌍 Portable Real-Time Speech Translation System
-- ESP32-based embedded device
-- Captures speech input and translates using cloud API
-- Bluetooth audio output integration
-- Combines IoT + AI + Embedded Systems
+* 🎯 Gameplay Programming
+* 🎮 Unity Game Development
+* ⚙️ Game Mechanics & Systems
+* 🧩 2D Game Development
+* 🧠 Game Physics
+* 🎞️ Animation & Tweening
+* 🌐 Multiplayer & Real-Time Systems
+* 💻 C# Programming
 
 ---
 
-## 📊 Academic Profile
+## 🛠️ Tech Stack
 
-- 🎓 B.Tech CSE – 2nd Year
-- 📈 CGPA: 8.1
-- 📚 Core Subjects:
-  - Data Structures
-  - Operating Systems
-  - OOPS
+### Game Development
+
+* Unity
+* C#
+* 2D Physics
+* Rigidbody & Collision Systems
+* Animation State Machines
+* Tweening
+
+### Web & Backend
+
+* React
+* Node.js
+* JavaScript
+* Maps APIs
+
+### Tools
+
+* Git
+* GitHub
+* Blender
 
 ---
 
+## 🎮 Featured Projects
 
-## 🤝 Connect With Me
+### 🐦 Flappy Bird
+
+A polished Unity remake focused on responsive controls and game feel.
+
+**Features:**
+
+* Frame-perfect player controls
+* Procedural pipe spawning
+* Collision-based scoring
+* 2D physics
+* Tweened visual feedback
+* Progressive gameplay challenge
+
+**Tech:** Unity · C# · 2D Physics · Gameplay
+
+🔗 Gameplay: https://play.unity.com/
+
+🔗 Source Code: https://github.com/sivaajishram
+
+---
+
+### 🚨 Disaster Management App
+
+A crisis-response platform designed to provide real-time hazard information and help coordinate emergency response.
+
+**Planned Features:**
+
+* Live hazard data
+* Resource mapping
+* Community reporting
+* Real-time alerts
+* Emergency coordination
+
+**Tech:** React · Node.js · Maps API
+
+🚧 Currently in development.
+
+---
+
+## 📊 Skills
+
+| Skill                | Focus                     |
+| -------------------- | ------------------------- |
+| Unity                | Game Engine & Tooling     |
+| C#                   | Gameplay Programming      |
+| Gameplay Programming | Systems & Mechanics       |
+| Game Physics         | Rigidbody & Collisions    |
+| Animation            | State Machines & Tweening |
+| React                | Frontend Development      |
+| Node.js              | Backend Development       |
+
+---
+
+## 🎓 Education
+
+### B.Tech Computer Science Engineering
+
+**SRM Institute of Science and Technology**
+
+Currently pursuing B.Tech CSE.
+
+Core areas of interest:
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Game Development
+* Computer Systems
+* Software Development
+
+---
+
+## 🏆 Achievements & Experience
+
+### Hackathons
+
+* Built a playable game prototype under a 24-hour hackathon deadline.
+* Collaborated with team members to develop rapid game concepts.
+* Focused on gameplay feel and delivering a playable prototype within the deadline.
+
+### College Projects
+
+* Unity arcade game with procedural difficulty scaling.
+* Disaster management platform — currently in development.
+
+### Certifications
+
+* Unity Essentials — Engine Fundamentals
+* C# Programming for Game Development
+* Full-Stack Web Development Foundations
+
+---
+
+## 🚀 Portfolio Features
+
+The portfolio includes:
+
+* 🎮 Featured game projects
+* 🛠️ Skills & technical toolkit
+* 📅 Development journey
+* 🏆 Achievements
+* 📄 Resume
+* 📬 Contact section
+* 🔗 GitHub & LinkedIn integration
+
+---
+
+## 🔗 Connect With Me
 
 <p>
-  <a href="https://ajishportfolio07.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <a href="https://portfolio-nine-nu-yip0zsyli1.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/sivaajishram">
+    <img src="https://img.shields.io/badge/GitHub-sivaajishram-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/siva-ajish-ram-181353323">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/_ajish__27/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Siva%20Ajish%20Ram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-- Email: sivaajishramr@gmail.com
-- GitHub: https://github.com/YOUR_USERNAME
 
+📧 **Email:** [sivaajishramr@gmail.com](mailto:sivaajishramr@gmail.com)
 
 ---
 
-## 🏗 Installation (For Developers)
+## 🏗️ Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/portfolio.git
-cd portfolio
+git clone <YOUR_GITHUB_REPOSITORY_URL>
+```
+
+Navigate to the project:
+
+```bash
+cd <PROJECT_FOLDER>
+```
+
+Install dependencies:
+
+```bash
 npm install
+```
+
+Start the development server:
+
+```bash
 npm run dev
+```
+
+The application will be available locally through the Vite development server.
+
+---
+
+## 🌐 Deployment
+
+The portfolio is deployed using **Vercel**.
+
+🔗 Live Website:
+
+https://portfolio-nine-nu-yip0zsyli1.vercel.app/
+
+---
+
+## 📌 Portfolio
+
+> **Building immersive gameplay experiences with Unity.**
+
+🎮 Unity Game Developer
+💻 Gameplay Programmer
+🎓 B.Tech CSE — SRM IST
+
+---
+
+© 2026 Siva Ajish Ram. All rights reserved.
